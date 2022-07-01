@@ -2,11 +2,11 @@
 
 Il progetto è eseguito in ambiente Python, sottoforma di notebook Jupyter.
 
-https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png
+![alt text](https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png)
 
 Il gestore di pacchetti utilizzato è Anaconda.
 
-https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png
+![alt text](https://upload.wikimedia.org/wikipedia/en/c/cd/Anaconda_Logo.png)
 
 Per quanto riguarda le librerie, l'unica che è stata importata manualmente è SMOTE da imblearn.over_sampling.
 Per farlo è bastato scrivere sulla PowerShell di Anaconda il seguente comando:
