@@ -75,7 +75,6 @@
 26,K6,189502,R1,13,Q2,P6,M2,caucasian,Male,0,0,80,USA,1
 35,K3,61518,R2,9,Q2,P2,M2,caucasian,Male,0,0,35,USA,0
 31,K3,574005,R1,13,Q2,P7,M2,caucasian,Male,0,0,44,USA,1
-24,K3,281356,R14,2,Q1,P9,M1,other,Male,0,0,66,Mexico,0
 40,K3,138975,R2,9,Q2,P7,M2,caucasian,Male,0,0,56,USA,0
 31,K3,176969,R1,13,Q1,P2,M1,caucasian,Male,0,0,55,USA,0
 43,K3,132393,R2,9,Q1,P3,M4,caucasian,Male,0,0,40,Poland,0
@@ -109,7 +108,6 @@
 36,K2,342719,R10,16,Q2,P4,M2,caucasian,Male,0,0,45,,1
 61,,71467,R2,9,Q2,,M2,caucasian,Male,3103,0,40,USA,1
 17,K3,271837,R6,10,Q1,P7,M4,caucasian,Male,0,0,16,USA,0
-40,K3,400061,R6,10,Q2,P10,M2,other,Male,0,0,40,USA,1
 18,K3,62972,R3,7,Q1,P5,M4,caucasian,Male,0,0,16,USA,0
 21,K3,174907,R7,12,Q1,P6,M4,caucasian,Female,0,0,32,USA,0
 41,K3,176452,R2,9,Q1,P5,M4,caucasian,Male,0,0,40,Peru,0
@@ -161,7 +159,6 @@
 45,K3,306889,R1,13,Q2,P2,M3,caucasian,Female,0,0,40,USA,1
 54,K5,54377,R4,14,Q3,P4,M1,caucasian,Female,0,0,40,USA,0
 47,K3,144351,R2,9,Q3,P7,M5,caucasian,Male,0,625,40,USA,0
-22,K3,95566,R6,10,Q4,P6,M4,other,Female,0,0,22,Dominican-Republic,0
 20,K3,181675,R2,9,Q1,P5,M1,caucasian,Male,0,0,40,USA,0
 36,K3,172129,R5,5,Q2,P3,M2,caucasian,Male,0,0,40,USA,0
 49,,350759,R2,9,Q2,,M2,caucasian,Male,0,0,40,USA,0
@@ -234,7 +231,6 @@
 20,K3,204226,R3,7,Q1,P5,M4,caucasian,Female,0,0,40,USA,0
 17,K3,183110,R3,7,Q1,P3,M4,caucasian,Male,0,0,16,USA,0
 42,K3,96321,R6,10,Q2,P6,M2,caucasian,Male,0,0,50,USA,1
-25,K3,167031,R6,10,Q1,P5,M6,other,Female,0,0,25,Ecuador,0
 36,K3,108997,R2,9,Q3,P1,M5,caucasian,Female,0,0,40,USA,0
 65,K3,176796,R10,16,Q7,P4,M1,caucasian,Female,0,0,40,USA,0
 32,K2,134737,R1,13,Q2,P10,M2,caucasian,Male,0,0,70,USA,1
@@ -247,7 +243,6 @@
 36,K3,207789,R2,9,Q3,P2,M1,caucasian,Male,0,0,52,USA,0
 67,K2,252842,R2,9,Q2,P9,M2,caucasian,Male,1797,0,20,USA,0
 28,K3,294936,R2,9,Q2,P8,M2,caucasian,Male,4064,0,45,USA,0
-24,K3,196269,R3,7,Q2,P3,M2,other,Male,0,0,40,USA,0
 17,K3,46402,R9,4,Q1,P6,M4,caucasian,Male,0,0,8,USA,0
 32,K2,267161,R1,13,Q3,P2,M5,black,Female,0,0,30,USA,0
 67,K3,160456,R3,7,Q7,P5,M1,caucasian,Female,0,0,40,USA,0
@@ -447,7 +442,6 @@
 39,K4,184964,R6,10,Q3,P1,M1,caucasian,Male,0,0,40,USA,1
 34,K3,398988,R1,13,Q1,P6,M1,caucasian,Male,0,0,40,USA,0
 29,K3,128777,R9,4,Q3,P7,M5,caucasian,Female,0,0,55,USA,0
-60,K3,252413,R6,10,Q2,P7,M2,other,Male,0,0,32,USA,1
 33,K3,181372,R4,14,Q2,P2,M3,caucasian,Female,0,0,50,USA,1
 58,K3,216851,R5,5,Q1,P3,M4,caucasian,Male,0,0,40,El-Salvador,0
 27,K3,106935,R6,10,Q5,P6,M1,caucasian,Male,0,0,40,USA,0
@@ -493,7 +487,6 @@
 25,K3,189897,R2,9,Q2,P7,M4,caucasian,Male,0,0,40,USA,0
 52,K3,145155,R2,9,Q7,P1,M1,caucasian,Female,0,0,40,USA,0
 27,K1,192257,R2,9,Q1,P12,M4,caucasian,Male,2174,0,40,USA,0
-35,K3,194960,R2,9,Q1,P9,M1,other,Male,0,0,40,Puerto-Rico,0
 44,K5,357814,R16,8,Q2,P5,M6,caucasian,Female,0,0,35,Mexico,0
 27,K5,137629,R2,9,Q2,P2,M2,caucasian,Male,0,0,80,USA,1
 42,K3,156526,R6,10,Q1,P11,M1,caucasian,Male,0,0,33,USA,0
@@ -576,7 +569,6 @@
 41,K5,401134,R1,13,Q3,P4,M5,caucasian,Female,0,0,40,USA,0
 34,K3,258170,R2,9,Q3,P2,M5,caucasian,Female,0,0,38,USA,0
 68,,141181,R5,5,Q2,,M2,caucasian,Male,0,0,2,USA,0
-37,K3,292370,R1,13,Q2,P4,M2,other,Male,0,0,50,,1
 22,K3,300871,R6,10,Q2,P11,M2,caucasian,Male,0,0,40,USA,0
 43,K3,136721,R16,8,Q2,P7,M2,caucasian,Male,0,0,40,USA,0
 19,,140399,R6,10,Q1,,M6,caucasian,Female,0,0,30,USA,0
@@ -662,7 +654,6 @@
 67,K6,111321,R1,13,Q2,P2,M2,caucasian,Male,0,0,16,USA,0
 44,K3,278476,R6,10,Q2,P6,M2,caucasian,Male,0,0,60,USA,1
 42,K3,39060,R2,9,Q2,P6,M2,caucasian,Male,0,0,60,USA,1
-29,K5,205262,R6,10,Q1,P1,M1,other,Male,0,0,40,Ecuador,0
 48,K3,198000,R6,10,Q1,P7,M5,caucasian,Female,0,0,38,USA,1
 25,K3,397962,R2,9,Q1,P1,M6,black,Female,0,0,40,USA,0
 31,K3,178370,R2,9,Q3,P5,M5,caucasian,Female,0,0,99,USA,1
@@ -816,7 +807,6 @@
 33,K3,323811,R6,10,Q2,P10,M2,caucasian,Male,0,0,55,USA,0
 43,K1,30824,R6,10,Q3,P1,M1,caucasian,Female,0,0,40,USA,0
 21,K4,181096,R6,10,Q1,P11,M4,black,Male,0,0,20,USA,0
-45,K3,217953,R2,9,Q2,P7,M2,other,Male,0,0,40,Mexico,0
 44,K3,222635,R12,3,Q2,P10,M2,black,Male,0,0,40,USA,0
 52,,121942,R9,4,Q2,,M2,caucasian,Male,0,0,40,USA,0
 53,K3,346871,R2,9,Q3,P4,M1,caucasian,Male,4787,0,46,USA,1
@@ -1351,7 +1341,6 @@
 40,K3,151365,R2,9,Q3,P7,M1,caucasian,Female,0,0,40,USA,0
 40,K3,360884,R6,10,Q1,P11,M1,caucasian,Female,0,0,50,USA,1
 54,K3,36480,R2,9,Q2,P6,M2,caucasian,Male,15024,0,50,USA,1
-43,K2,116666,R11,15,Q2,P4,M2,other,Male,0,0,35,USA,1
 63,K5,214143,R1,13,Q2,P8,M2,caucasian,Male,0,0,40,Cuba,0
 18,K3,45316,R3,7,Q1,P5,M4,caucasian,Female,0,0,20,USA,0
 19,K3,311974,R14,2,Q1,P10,M6,caucasian,Male,0,0,40,Mexico,0
@@ -1750,7 +1739,6 @@
 29,K3,105694,R2,9,Q2,P3,M2,caucasian,Male,0,0,42,USA,0
 24,K3,199883,R6,10,Q2,P7,M2,caucasian,Male,0,0,60,USA,0
 41,K1,100800,R4,14,Q3,P4,M1,caucasian,Male,0,0,35,USA,0
-23,K3,256278,R9,4,Q2,P3,M6,other,Female,0,0,30,El-Salvador,0
 32,K3,156464,R2,9,Q2,P6,M2,caucasian,Male,0,1902,50,USA,1
 51,K6,129525,R2,9,Q1,P6,M6,caucasian,Male,0,0,40,,0
 18,K3,285013,R2,9,Q1,P6,M4,caucasian,Male,0,0,10,USA,0
@@ -2002,7 +1990,6 @@
 27,K1,212232,R6,10,Q2,P2,M2,black,Male,0,0,40,USA,1
 57,K3,300104,R2,9,Q2,P7,M2,caucasian,Male,0,0,84,USA,1
 22,K3,156933,R2,9,Q1,P3,M4,black,Male,0,0,25,USA,0
-20,K3,286734,R6,10,Q1,P1,M1,other,Female,0,0,35,USA,0
 49,K6,143482,R6,10,Q2,P4,M3,caucasian,Female,0,0,65,USA,1
 38,K3,226357,R2,9,Q2,P7,M2,caucasian,Male,0,0,40,USA,0
 40,K3,104892,R1,13,Q2,P11,M2,caucasian,Male,0,0,40,USA,0
@@ -2029,7 +2016,6 @@
 18,K3,237646,R6,10,Q1,P1,M4,caucasian,Male,0,0,30,USA,0
 31,K5,189843,R2,9,Q3,P12,M1,caucasian,Male,0,0,47,USA,1
 43,K2,118261,R4,14,Q3,P5,M5,caucasian,Female,0,0,30,USA,0
-45,K3,288437,R2,9,Q2,P8,M2,other,Male,4064,0,40,USA,0
 39,K3,106347,R2,9,Q2,P8,M2,caucasian,Male,0,0,40,USA,0
 30,K3,316471,R1,13,Q1,P1,M1,caucasian,Male,0,0,50,USA,0
 22,K3,50058,R6,10,Q1,P1,M1,caucasian,Female,0,0,35,USA,0
@@ -2221,7 +2207,6 @@
 42,K1,333530,R6,10,Q2,P2,M3,caucasian,Female,0,0,40,USA,1
 62,K3,214288,R2,9,Q2,P10,M2,caucasian,Male,0,0,40,USA,0
 21,K3,118023,R2,9,Q1,P9,M4,caucasian,Male,0,0,24,USA,0
-21,K3,187088,R6,10,Q1,P1,M4,other,Female,0,0,20,Cuba,0
 60,,174073,R2,9,Q2,,M2,caucasian,Male,0,0,40,USA,0
 22,K3,133833,R6,10,Q1,P5,M4,caucasian,Female,0,0,25,USA,0
 30,K3,229772,R13,6,Q2,P7,M2,caucasian,Male,0,0,40,USA,0
@@ -2262,7 +2247,6 @@
 66,,186061,R6,10,Q7,,M5,black,Female,0,4356,40,USA,0
 28,K4,24153,R13,6,Q2,P5,M3,american,Female,0,0,40,USA,0
 36,K3,126569,R2,9,Q2,P4,M2,caucasian,Male,0,0,45,Ecuador,1
-57,,137658,R2,9,Q2,,M2,other,Male,0,0,5,Columbia,0
 24,K3,315476,R7,12,Q1,P7,M4,caucasian,Male,0,0,40,USA,0
 43,K3,248186,R7,12,Q1,P1,M1,caucasian,Female,0,0,38,USA,0
 29,K6,206903,R11,15,Q2,P4,M2,caucasian,Male,0,0,55,USA,1
@@ -2280,7 +2264,6 @@
 43,K3,155106,R7,12,Q3,P7,M1,caucasian,Male,0,2444,70,USA,1
 41,K5,174491,R2,9,Q5,P5,M5,black,Female,0,0,40,USA,0
 34,K1,173266,R2,9,Q2,P11,M2,caucasian,Male,0,0,40,USA,1
-33,K3,25610,R7,12,Q2,P6,M2,other,Male,0,0,40,Japan,1
 47,K3,187563,R2,9,Q2,P10,M2,caucasian,Male,0,0,40,USA,0
 41,K3,196344,R14,2,Q2,P6,M2,caucasian,Male,0,0,50,Mexico,0
 40,K3,205047,R2,9,Q4,P7,M1,caucasian,Male,0,0,40,USA,1
@@ -2427,7 +2410,6 @@
 31,K3,57781,R2,9,Q3,P1,M5,caucasian,Female,0,0,50,USA,0
 69,,121136,R2,9,Q2,,M2,caucasian,Male,0,0,13,USA,0
 41,K3,433989,R8,11,Q2,P6,M2,caucasian,Male,4386,0,60,USA,1
-24,K3,136687,R2,9,Q5,P10,M5,other,Female,0,0,40,USA,0
 45,K1,154117,R2,9,Q3,P2,M5,caucasian,Female,0,0,38,USA,1
 63,K3,294009,R1,13,Q2,P4,M2,caucasian,Male,15024,0,45,USA,1
 75,K3,239038,R6,10,Q2,P8,M2,caucasian,Male,0,0,16,USA,0
@@ -2776,7 +2758,6 @@
 39,K5,344855,R4,14,Q2,P4,M3,caucasian,Female,0,1977,20,USA,1
 20,K1,214542,R6,10,Q1,P4,M4,caucasian,Male,0,0,40,USA,0
 30,K3,258170,R2,9,Q3,P1,M1,caucasian,Female,0,0,40,USA,0
-29,K4,242147,R2,9,Q3,P1,M1,other,Male,0,0,45,USA,0
 42,K3,235700,R2,9,Q3,P3,M1,caucasian,Female,0,0,40,USA,0
 24,K3,278130,R7,12,Q1,P1,M1,caucasian,Male,0,0,40,USA,0
 36,K3,261241,R2,9,Q2,P10,M2,caucasian,Male,0,0,50,USA,1
@@ -2846,7 +2827,6 @@
 39,K3,206074,R1,13,Q2,P4,M2,caucasian,Male,0,0,45,USA,1
 25,K3,173062,R1,13,Q1,P3,M5,black,Male,0,0,40,USA,0
 58,K3,117273,R6,10,Q2,P6,M2,caucasian,Male,0,0,40,USA,1
-27,K2,153805,R6,10,Q2,P8,M6,other,Male,0,0,50,Ecuador,1
 51,K3,293802,R12,3,Q2,P3,M2,black,Male,0,0,52,USA,0
 43,K5,153132,R4,14,Q2,P4,M2,caucasian,Male,15024,0,40,USA,1
 46,K3,166809,R2,9,Q3,P1,M5,caucasian,Female,0,0,40,USA,0
@@ -3083,7 +3063,6 @@
 25,K3,421467,R7,12,Q1,P3,M4,caucasian,Male,0,0,26,USA,0
 36,K3,138441,R6,10,Q1,P10,M4,caucasian,Male,0,0,40,USA,0
 52,K3,146767,R2,9,Q2,P10,M2,caucasian,Male,0,0,40,USA,1
-20,,369678,R16,8,Q1,,M1,other,Male,0,1602,40,USA,0
 25,K3,160445,R2,9,Q3,P7,M1,caucasian,Male,0,0,40,USA,0
 26,K3,211695,R1,13,Q1,P4,M4,caucasian,Male,0,0,40,USA,0
 50,K3,102346,R1,13,Q2,P2,M3,caucasian,Female,0,2415,20,USA,1
@@ -3094,7 +3073,6 @@
 36,K3,334291,R6,10,Q2,P7,M2,caucasian,Male,0,1887,40,USA,1
 49,K3,237920,R10,16,Q2,P6,M2,caucasian,Male,0,0,60,USA,0
 34,K5,136331,R1,13,Q2,P4,M2,caucasian,Male,0,0,60,USA,0
-28,K3,187397,R2,9,Q1,P5,M6,other,Male,0,0,48,Mexico,0
 28,K2,119793,R2,9,Q1,P5,M1,caucasian,Male,0,0,40,USA,0
 42,K3,24982,R6,10,Q2,P7,M2,caucasian,Male,7688,0,40,USA,1
 26,K2,231714,R2,9,Q2,P7,M2,caucasian,Male,0,0,40,USA,0
@@ -3119,7 +3097,6 @@
 50,K3,344621,R2,9,Q3,P10,M1,caucasian,Female,0,0,40,USA,0
 52,K3,174752,R2,9,Q2,P6,M2,caucasian,Male,0,0,60,USA,1
 18,K6,174202,R2,9,Q1,P8,M4,caucasian,Male,0,0,60,USA,0
-26,K3,261203,R9,4,Q1,P5,M5,other,Female,0,0,30,,0
 57,K3,316000,R2,9,Q2,P7,M2,caucasian,Male,0,0,40,USA,0
 63,K1,216871,R6,10,Q2,P1,M2,caucasian,Male,0,1740,40,USA,0
 29,K3,246933,R2,9,Q1,P1,M6,caucasian,Male,0,0,40,Mexico,0
@@ -3309,7 +3286,6 @@
 47,K3,155664,R4,14,Q2,P2,M2,caucasian,Male,99999,0,55,USA,1
 39,K3,206520,R2,9,Q1,P1,M1,caucasian,Male,0,0,45,USA,0
 33,K3,72338,R11,15,Q2,P2,M2,asian,Male,0,0,65,Japan,1
-43,K5,34640,R2,9,Q2,P2,M2,other,Male,0,1887,40,USA,1
 30,K3,236543,R6,10,Q2,P4,M2,caucasian,Male,0,0,68,USA,0
 39,K5,43702,R8,11,Q2,P1,M3,caucasian,Female,0,0,37,USA,0
 44,K3,335248,R6,10,Q3,P1,M1,caucasian,Female,0,0,40,USA,0
@@ -3351,7 +3327,6 @@
 44,K3,182370,R2,9,Q2,P7,M2,caucasian,Male,0,0,40,USA,0
 18,,200525,R3,7,Q1,,M4,caucasian,Female,0,0,25,USA,0
 39,K3,174242,R1,13,Q2,P2,M2,caucasian,Male,15024,0,60,USA,1
-28,K3,95566,R14,2,Q4,P5,M4,other,Female,0,0,35,Dominican-Republic,0
 30,K3,30290,R2,9,Q1,P10,M1,caucasian,Female,0,0,40,USA,0
 60,K3,240951,R2,9,Q3,P1,M6,caucasian,Female,0,0,40,USA,0
 58,K3,183810,R2,9,Q2,P5,M2,caucasian,Male,0,0,24,USA,0
@@ -3463,7 +3438,6 @@
 30,K5,169020,R1,13,Q2,P4,M2,caucasian,Male,0,0,40,USA,0
 34,K3,127195,R6,10,Q2,P2,M2,caucasian,Male,0,0,40,USA,0
 41,K3,211731,R6,10,Q1,P1,M1,caucasian,Female,0,0,40,Mexico,0
-42,K2,126614,R1,13,Q3,P2,M1,other,Male,0,0,30,Iran,0
 45,K3,259463,R8,11,Q2,P4,M2,caucasian,Male,0,0,40,USA,1
 22,K3,228411,R6,10,Q1,P2,M1,caucasian,Male,0,0,35,USA,0
 25,K3,117827,R6,10,Q2,P1,M2,caucasian,Male,0,0,40,USA,0
@@ -3499,7 +3473,6 @@
 18,K3,41973,R3,7,Q1,P1,M4,caucasian,Female,0,0,5,USA,0
 23,K3,162228,R1,13,Q1,P6,M1,caucasian,Male,0,0,48,USA,0
 21,K3,211968,R6,10,Q1,P6,M4,caucasian,Female,0,1762,28,USA,0
-46,K3,211226,R7,12,Q2,P8,M2,other,Male,0,0,36,USA,0
 38,K3,33397,R2,9,Q3,P6,M5,caucasian,Female,0,0,40,USA,0
 53,K3,120839,R16,8,Q3,P9,M4,caucasian,Male,0,0,40,USA,0
 53,K3,36327,R2,9,Q2,P6,M2,caucasian,Male,0,0,40,USA,1
@@ -3553,7 +3526,6 @@
 19,K3,167087,R2,9,Q1,P1,M1,caucasian,Female,0,0,40,USA,0
 65,,192825,R9,4,Q2,,M2,caucasian,Male,0,0,25,USA,0
 30,K3,318749,R8,11,Q2,P11,M3,caucasian,Female,0,0,35,Germany,0
-27,,147638,R4,14,Q1,,M1,other,Female,0,0,40,Japan,0
 59,K4,293971,R6,10,Q2,P11,M2,caucasian,Male,0,0,40,USA,1
 32,K3,229566,R8,11,Q2,P5,M2,caucasian,Male,0,0,60,USA,1
 25,K3,242464,R1,13,Q1,P1,M1,caucasian,Male,0,0,40,USA,0
@@ -3710,7 +3682,6 @@
 22,K3,254547,R6,10,Q1,P2,M5,black,Female,0,0,40,Jamaica,0
 47,K6,102308,R11,15,Q2,P4,M2,caucasian,Male,0,2415,45,USA,1
 44,K3,33105,R2,9,Q2,P2,M2,american,Male,0,0,40,USA,0
-30,K3,215441,R6,10,Q1,P1,M1,other,Male,0,0,40,,0
 44,K5,197919,R6,10,Q3,P5,M5,caucasian,Female,0,0,40,USA,0
 41,K3,206139,R2,9,Q2,P6,M2,caucasian,Male,0,0,40,USA,1
 47,K3,117849,R7,12,Q3,P6,M4,caucasian,Male,0,0,44,USA,0
@@ -3741,7 +3712,6 @@
 39,K4,232036,R6,10,Q2,P1,M2,caucasian,Male,0,0,40,USA,1
 30,K3,33678,R2,9,Q1,P6,M4,caucasian,Male,0,0,40,USA,0
 62,K7,159908,R6,10,Q2,P1,M3,caucasian,Female,0,0,16,USA,0
-27,K3,176761,R2,9,Q1,P7,M6,other,Male,0,0,40,Nicaragua,0
 32,K3,260954,R3,7,Q2,P7,M2,caucasian,Male,0,2042,30,USA,0
 37,K5,180342,R1,13,Q2,P5,M2,caucasian,Male,0,0,40,USA,1
 47,K5,324791,R4,14,Q2,P4,M2,caucasian,Male,0,1887,50,USA,1
@@ -3910,7 +3880,6 @@
 51,K5,203334,R10,16,Q3,P2,M1,caucasian,Female,0,0,45,USA,1
 61,K2,50483,R9,4,Q2,P9,M2,caucasian,Male,0,0,56,USA,0
 51,K3,274502,R9,4,Q3,P10,M1,caucasian,Female,0,0,48,USA,0
-36,K3,208068,R15,1,Q3,P5,M1,other,Male,0,0,72,Mexico,0
 41,K2,168098,R1,13,Q2,P4,M2,caucasian,Male,0,0,50,USA,0
 34,K3,213307,R2,9,Q1,P3,M5,caucasian,Female,7443,0,35,USA,0
 25,K3,175128,R2,9,Q2,P8,M2,caucasian,Male,0,0,40,USA,0
@@ -4022,7 +3991,6 @@
 41,,202822,R2,9,Q5,,M1,black,Female,0,0,32,USA,0
 72,,129912,R2,9,Q2,,M2,caucasian,Male,0,0,25,USA,0
 45,K5,119199,R7,12,Q3,P4,M5,caucasian,Female,0,0,48,USA,0
-31,K3,199655,R4,14,Q3,P5,M1,other,Female,0,0,30,USA,0
 39,K5,111499,R7,12,Q2,P1,M3,caucasian,Female,0,0,20,USA,1
 37,K3,198216,R7,12,Q3,P11,M1,caucasian,Female,0,0,40,USA,0
 43,K3,260761,R2,9,Q2,P10,M2,caucasian,Male,0,0,40,Mexico,0
